@@ -52,12 +52,6 @@ BebraGrad - это проект виртуального города в Minecra
 - Оптимизация производительности приложений
 - Интеграция различных сервисов в единую систему
 
-## 📫 Связаться со мной
-
-<div align="center">
-  <a href="https://t.me/bodikgo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-</div>
-
 ---
 
 <div align="center">
