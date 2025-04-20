@@ -23,6 +23,20 @@ BebraGrad - это проект виртуального города в Minecra
 - 🔧 [Service-Center](https://github.com/B0D1KG0/Service-Center) - Веб-сервис для сервисного центра (PHP, CSS, JS)
 - ✅ [To-do-plan](https://github.com/B0D1KG0/To-do-plan) - Приложение для планирования задач (PHP, JS, CSS)
 
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=B0D1KG0&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true)](https://github.com/B0D1KG0)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B0D1KG0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/B0D1KG0)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=B0D1KG0&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/B0D1KG0)
+  
+  [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=B0D1KG0&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/B0D1KG0)
+  
+</div>
+
 ## 💻 Мои навыки
 
 - **Веб-разработка**: PHP, CSS, JavaScript
@@ -41,7 +55,6 @@ BebraGrad - это проект виртуального города в Minecra
 ## 📫 Связаться со мной
 
 <div align="center">
-  <!-- Замените # на свои ссылки на социальные сети -->
   <a href="https://t.me/bodikgo"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </div>
 
