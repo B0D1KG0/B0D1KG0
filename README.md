@@ -36,7 +36,7 @@ BebraGrad - это проект виртуального города в Minecra
 ## 💻 Мои навыки
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,java,python,javascript,css,mysql,html,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,mysql,javascript,java,python,git" />
 </div>
 
 - **Веб-разработка**: PHP, CSS, JavaScript, HTML
