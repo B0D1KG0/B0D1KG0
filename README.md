@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </div>
 
 ## 🌆 О проекте BebraGrad
@@ -35,7 +35,11 @@ BebraGrad - это проект виртуального города в Minecra
 
 ## 💻 Мои навыки
 
-- **Веб-разработка**: PHP, CSS, JavaScript
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,java,python,javascript,css,mysql,html,git" />
+</div>
+
+- **Веб-разработка**: PHP, CSS, JavaScript, HTML
 - **Мобильная разработка**: Java
 - **Разработка ботов**: Python (Discord, Telegram)
 - **Базы данных**: MySQL
